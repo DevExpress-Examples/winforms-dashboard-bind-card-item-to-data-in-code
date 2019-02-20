@@ -1,6 +1,6 @@
 *Files to look at*:
 
-* [Form1.cs](./CS/DXApplication1/Form1.cs) (VB: [Form1.vb](./CS/DXApplication1/Form1.vb))
+* [ViewerForm1.cs](./CS/DXApplication1/ViewerForm1.cs) (VB: [Form1.vb](./CS/DXApplication1/ViewerForm1.vb))
 
 # How to bind a Card dashboard item to data in code
 
