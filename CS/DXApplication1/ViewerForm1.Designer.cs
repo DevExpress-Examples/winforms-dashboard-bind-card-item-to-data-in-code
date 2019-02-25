@@ -56,7 +56,7 @@
             this.ClientSize = new System.Drawing.Size(1198, 599);
             this.Controls.Add(this.dashboardViewer);
             this.Name = "ViewerForm1";
-            this.Text = "Dashboard Designer";
+            this.Text = "Dashboard Viewer";
             ((System.ComponentModel.ISupportInitialize)(this.dashboardBarAndDockingController1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dashboardViewer)).EndInit();
             this.ResumeLayout(false);
