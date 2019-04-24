@@ -1,6 +1,4 @@
-﻿Imports Microsoft.VisualBasic
-Imports System
-Namespace DXApplication1
+﻿Namespace DXApplication1
 	Partial Public Class ViewerForm1
 		''' <summary>
 		''' Required designer variable.
@@ -28,8 +26,8 @@ Namespace DXApplication1
 			Me.components = New System.ComponentModel.Container()
 			Me.dashboardBarAndDockingController1 = New DevExpress.DashboardWin.Native.DashboardBarAndDockingController(Me.components)
 			Me.dashboardViewer = New DevExpress.DashboardWin.DashboardViewer(Me.components)
-			CType(Me.dashboardBarAndDockingController1, System.ComponentModel.ISupportInitialize).BeginInit()
-			CType(Me.dashboardViewer, System.ComponentModel.ISupportInitialize).BeginInit()
+			DirectCast(Me.dashboardBarAndDockingController1, System.ComponentModel.ISupportInitialize).BeginInit()
+			DirectCast(Me.dashboardViewer, System.ComponentModel.ISupportInitialize).BeginInit()
 			Me.SuspendLayout()
 			' 
 			' dashboardBarAndDockingController1
@@ -39,24 +37,24 @@ Namespace DXApplication1
 			' 
 			' dashboardViewer
 			' 
-			Me.dashboardViewer.Appearance.BackColor = System.Drawing.Color.FromArgb((CInt(Fix((CByte(210))))), (CInt(Fix((CByte(210))))), (CInt(Fix((CByte(210))))))
+			Me.dashboardViewer.Appearance.BackColor = System.Drawing.Color.FromArgb((CInt((CByte(210)))), (CInt((CByte(210)))), (CInt((CByte(210)))))
 			Me.dashboardViewer.Appearance.Options.UseBackColor = True
 			Me.dashboardViewer.Dock = System.Windows.Forms.DockStyle.Fill
 			Me.dashboardViewer.Location = New System.Drawing.Point(0, 0)
 			Me.dashboardViewer.Name = "dashboardViewer"
-			Me.dashboardViewer.Size = New System.Drawing.Size(1198, 599)
+			Me.dashboardViewer.Size = New System.Drawing.Size(798, 568)
 			Me.dashboardViewer.TabIndex = 0
 			' 
 			' ViewerForm1
 			' 
 			Me.AutoScaleDimensions = New System.Drawing.SizeF(6F, 13F)
 			Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-			Me.ClientSize = New System.Drawing.Size(1198, 599)
+			Me.ClientSize = New System.Drawing.Size(798, 568)
 			Me.Controls.Add(Me.dashboardViewer)
 			Me.Name = "ViewerForm1"
-			Me.Text = "Dashboard Viewer"
-			CType(Me.dashboardBarAndDockingController1, System.ComponentModel.ISupportInitialize).EndInit()
-			CType(Me.dashboardViewer, System.ComponentModel.ISupportInitialize).EndInit()
+			Me.Text = "Create CardDashboardItem in Code"
+			DirectCast(Me.dashboardBarAndDockingController1, System.ComponentModel.ISupportInitialize).EndInit()
+			DirectCast(Me.dashboardViewer, System.ComponentModel.ISupportInitialize).EndInit()
 			Me.ResumeLayout(False)
 
 		End Sub

@@ -1,12 +1,11 @@
-﻿Imports Microsoft.VisualBasic
-Imports System
-Imports DevExpress.DashboardCommon
+﻿Imports DevExpress.DashboardCommon
 Imports DevExpress.DataAccess.Excel
 Imports DevExpress.XtraEditors
 
 Namespace DXApplication1
 	Partial Public Class ViewerForm1
 		Inherits XtraForm
+
 		Public Sub New()
 			InitializeComponent()
 
