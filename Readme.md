@@ -27,8 +27,7 @@ API in this example:
 ## More Examples 
 
 * [How to bind a Pie dashboard item to data in code](https://github.com/DevExpress-Examples/how-to-bind-a-pie-dashboard-item-to-data-in-code-e4769)
-* [How to add window calculations for numeric measures in code](https://github.com/DevExpress-Examples/winforms-dashboard-window-calculation-example)
-* [How to Bind a Card Dashboard Item to Data in Code](https://github.com/DevExpress-Examples/how-to-bind-a-card-dashboard-item-to-data-in-code) 
+* [How to add window calculations for numeric measures in code](https://github.com/DevExpress-Examples/winforms-dashboard-window-calculation-example) 
 * [How to bind a Treemap dashboard item to data in code](https://github.com/DevExpress-Examples/how-to-bind-a-treemap-dashboard-item-to-data-in-code-t429531)
 * [How to bind a Bound Image dashboard item to data in code](https://github.com/DevExpress-Examples/how-to-bind-a-bound-image-dashboard-item-to-data-in-code-t382366)
 * [How to bind a Scatter Chart dashboard item to data in code](https://github.com/DevExpress-Examples/how-to-bind-a-scatter-chart-dashboard-item-to-data-in-code-t306222)
