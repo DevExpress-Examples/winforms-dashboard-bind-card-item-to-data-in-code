@@ -3,14 +3,9 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T830460)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-*Files to look at*:
-
-* [ViewerForm1.cs](./CS/DXApplication1/ViewerForm1.cs) (VB: [ViewerForm1.vb](./VB/DXApplication1/ViewerForm1.vb))
-
 # How to Bind a Card Dashboard Item to Data in Code
 
 This example shows how to bind a [Card dashboard item](http://docs.devexpress.com/Dashboard/15263/) to data in code.
-
 
 ![screenshot](images/screenshot.png)
 
@@ -22,6 +17,10 @@ API in this example:
 * [Card.TargetValue](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.KpiElement.TargetValue) property
 * [Card.SeriesDimensions](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.SeriesDashboardItem.SeriesDimensions) property
 * [CardDashboardItem.Cards](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.CardDashboardItem.Cards) property
+
+# Files Review
+
+* [ViewerForm1.cs](./CS/DXApplication1/ViewerForm1.cs) (VB: [ViewerForm1.vb](./VB/DXApplication1/ViewerForm1.vb))
 
 ## Documentation
 
