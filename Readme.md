@@ -44,7 +44,7 @@ API in this example:
 * [How to bind a Pie Map dashboard item to data in code](https://github.com/DevExpress-Examples/how-to-bind-a-pie-map-dashboard-item-to-data-in-code-t119627)
 * [How to bind a Chart dashboard item to data in code](https://github.com/DevExpress-Examples/how-to-bind-a-chart-dashboard-item-to-data-in-code-e4767)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-dashboard-bind-card-item-to-data-in-code&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-dashboard-bind-card-item-to-data-in-code&~~~was_helpful=no)
 
